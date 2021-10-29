@@ -1,0 +1,138 @@
+<--------------- A --------------->
+AdRotator			ar
+
+<--------------- B --------------->
+BackgroundWorker		bgw
+BindingNavigator		bdn
+BindingSource			bds
+Button				btn
+
+<--------------- C --------------->
+Calender			cal
+ColorDialog			cld
+Column				col
+ColumnHeader			ch
+ComboBox			cmb
+CompareValidator		cv
+ContextMenuStrip		cms
+CrystalReportViewer		crv
+CheckBox			chk
+CheckBoxList			chklst
+CheckedListBox			ckl
+
+<--------------- D --------------->
+DataGrid			dg
+DataGridView			dgv
+DataList			dtl
+DataSet				dts
+DateTimePicker			dtp
+DirectoryEntry			dre
+DirectorySearcher		drs
+DomainUpDown			dud
+DropDownList			ddl
+
+<--------------- E --------------->
+ErrorProvider			err
+EventLog			evl
+
+<--------------- F --------------->
+FileSystemWatcher		fsw
+FileUpload			ful
+FlowLayoutPanel			flp
+FolderBrowserDialog		fbd
+FontDialog			fnd
+Form				frm
+
+<--------------- G --------------->
+GridView			gv
+GroupBox			grp
+
+<--------------- H --------------->
+HelpProvider			hlp
+HiddenField			hf
+HScrollBar			hsc
+
+<--------------- I --------------->
+Image				img
+ImageButton			imgbtn
+ImageList			il
+
+<--------------- L --------------->
+Label				lbl
+LinkButton			lnkbtn
+LinkLabel			llb
+ListBox				lst
+ListView			lvw
+
+<--------------- M --------------->
+MaskedTextBox			mtx
+MenuStrip			mns
+MessageQueue			msq
+MonthCalendar			cdr
+
+<--------------- N --------------->
+NotifyIcon			icn
+NumeircUpDown			nud
+
+<--------------- O --------------->
+ObjectDataSource		ods
+OpenFileDialog			ofd
+
+<--------------- P --------------->
+PagedDataSource			pds
+PageSetupDialog			psd
+Panel				pnl
+PerformanceCounter		pfc
+PictureBox			pic
+PrintDialog			prd
+PrintDocument			pdc
+PrintPreviewControl		prv
+PrintPreviewDialog		ppd
+Process				prc
+ProgressBar			prd
+PropertyGrid			prg
+
+<--------------- R --------------->
+RadioButton			rdo
+RadioButtonList			rdolst
+RangeValidator			rv
+RegularExpressionValidator	rev
+Repeater			rpt
+ReportDocument			rpd
+ReportViewer			rpv
+RequiredFieldValidator		rfv
+RichTextBox			rtx
+
+<--------------- S --------------->
+SaveFileDialog			sfd
+SerialPort			spt
+ServiceController		scl
+SplitContainer			spl
+Splitter			spl
+StatusLabel			slbl
+StatusStrip			ss
+
+<--------------- T --------------->
+TabControl			tab
+Table				tbl
+TableLayoutPanel		tlp
+TabPage				tp
+TextBox				txt
+Timer				tmr
+Timer				tmr
+ToolStrip			ts
+ToolStripButton			tsbtn
+ToolStripContainer		tsc
+ToolStripDropDownButton		tsddb
+ToolStripLabel			tslbl
+ToolStripMenuItem		tsmi
+ToolTip				tip
+TrackBar			trb
+TreeView			tvw
+
+<--------------- V --------------->
+ValidatorSummary		vs
+VScrollBar			vsc
+
+<--------------- W --------------->
+WebBrowser			wbs
